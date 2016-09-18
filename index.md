@@ -67,8 +67,12 @@ Agenda Proposal
 	17:00 - 17:20 准备最后的分享 Presentation Preparation
 	17:20 - 17:30 分享我今天的新灵感 Final Presentation Of My New Insight
 
-[Unconference](http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/)
+Unconferencing
 ---
+
+Follow this link for more detail: 
+[Unconference](http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/)
+
 * 志愿者记录更新聊天地图
 
 * 无论是多年深思熟虑之后准备的演讲还是临时迸发的新奇想法，都值得说道说道。From the well thought out pre-prepared talk reflecting years of research and practice to the spur of the moment ‘new idea’ that would be fun to talk about.
