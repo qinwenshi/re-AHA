@@ -32,11 +32,18 @@ Welcome to ReAHA Gathering
 
 需要提前准备：纸、笔。
 
+<img src="img/day1.jpeg" width="450">
+
 
 24号聚会 Unconferencing
 ====
 Workface场地
 ---
+
+地址：上海闸北区彭江路602号 大宁德必易园 e 栋2f
+
+<img src="img/addr.jpeg" width="450">
+
 * 3间会议室
 * 1个大厅
 * 若干可以 Pair 的小角落
@@ -82,7 +89,7 @@ Follow this link for more detail:
 ---
 可能的讨论的形式……
 
-Types of sessions…
+#####Types of sessions…
 
 ##### 比较长的正式演讲 The longer formal presentation
 这样的情景下，这种互动式的正式演讲可能会比较困难；不过如果你确实有准备得很充分的想法在这里发布，搞个打的，你完全可以在这里试试。
@@ -128,6 +135,8 @@ Go to the sessions that interest you.
 如果有话题没有出现在日程上，而你又很想找人聊聊的，上！作为成年人，有责任把这样的话题抛出来让大家听到。
 
 If there are topics you are really interested in that don’t appear on the agenda at first, you need to put them on there.
+
+<img src="img/day2.jpeg" width="450">
 
 
  
