@@ -40,7 +40,7 @@ Welcome to ReAHA Gathering
 Workface场地
 ---
 
-地址：上海闸北区彭江路602号 大宁德必易园 e 栋2f
+地址：上海闸北区彭江路602号 大宁德必易园 e 栋408f
 
 <img src="img/addr.jpeg" width="450">
 
